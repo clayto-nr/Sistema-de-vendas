@@ -1,0 +1,11 @@
+{
+    "dataVenda": "09/11/2024",
+    "produtos": [
+        {
+            "nome": "IFRN",
+            "preco": 1000000000000.0,
+            "quantidade": 1
+        }
+    ],
+    "total": 0.0
+}
